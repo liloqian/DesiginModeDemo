@@ -1,5 +1,7 @@
 package com.xidian.OEI.Decorate;
 
+import java.io.InputStream;
+
 /**
  * Created by leo on 2017/9/13.
  */
